@@ -9,8 +9,7 @@
 ---
 
 ```python
-while(alive):
-    learn("AI + Data Science + Quantum Computing")
-    code("Python")
-    build("something interesting")
-    repeat()
+while(alive): learn("AI + Data Science + Quantum Computing"); code(project="always"); sleep(hours<5); repeat(times=Undefined)
+```
+
+</br>
